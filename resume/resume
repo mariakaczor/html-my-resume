@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+     <meta charset="UTF-8">
+     <title>My resume</title>
+    </head>
+    
+    <body>
+     <h1>Student looking for an IT internship</h1>
+     <img src="IMG_8106.png"
+     height="200"/>
+     <ol>
+     <li>Maria Kaczor</li>
+     <li>+48 502 300 919</li>
+     <li>marysia.kaczor@gmail.com</li>
+     </ol>
+     <h2>Education</h2>
+     <ul>
+     <li>LO II in Krakow,Poland 2019-2021</li>
+     <li>JPII University in Krakow,Poland 2021-2024
+     Bachelors degree in Digital Media - specialize in data analysis
+     </li>
+     </ul>
+     <h2>Work</h2>
+     <ol>
+     <li>CHOI'S KOREAN CHICKEN & CUPBOP 2021-now
+        Responsible for taking orders, making deliveries, overall good restaurant management and customer service 
+     </li>
+     </ol>
+     <h2>Skills</h2>
+     <ul>
+     <li>Responsible</li>
+     <li>Open minded</li>
+     <li>Quick learner</li>
+     <li>English proficency b2/c1</li>
+     <li>Eligible to obtain US work visa</li>
+     </ul>
+    </body>
+</html>
